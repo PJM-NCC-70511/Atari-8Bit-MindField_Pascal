@@ -1,0 +1,4 @@
+CHARSET_GAME    rcdata  'MINDFIELD.FNT';
+CHARSET_TITLE   rcdata  'MIND FIELD TITLE.FNT';
+TITLE_DATA      rcdata  'Mind Field Title Screen.txt';
+SOUND_COMMANDER rcasm   'sound_commander.asm';

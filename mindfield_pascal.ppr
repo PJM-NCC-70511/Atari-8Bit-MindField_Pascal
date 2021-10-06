@@ -1,0 +1,82 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+mindfield_pascal
+	+Folder
+		..\..\Mads Projects\cc65\Mind Field C\Mind Field.c
+[Open project files]
+0=Mind Field.pas
+1=Mind_Field_Interupts.inc
+2=..\lib\atari.pas
+3=..\base\atari.hea
+4=..\base\cpu6502.asm
+5=..\base\res6502.asm
+6=resources.rc
+7=..\lib\b_crt.pas
+8=..\lib\b_set_interupts.pas
+9=..\lib\b_system.pas
+10=ML Elements.asm
+11=sound_commander.asm
+12=..\..\Mads Projects\cc65\Mind Field C\Mind Field.c
+13=..\..\Mads Projects\cc65\asminc\atari_antic.inc
+14=..\..\Mads Projects\cc65\asminc\atari.inc
+[Selected Project Files]
+Main=
+Selected=..\..\Mads Projects\cc65\asminc\atari.inc
+[Mind Field.pas]
+TopLine=413
+Caret=1,450
+[Mind_Field_Interupts.inc]
+TopLine=1
+Caret=1,1
+[..\lib\atari.pas]
+TopLine=154
+Caret=8,168
+[..\base\atari.hea]
+TopLine=50
+Caret=1,50
+[..\base\cpu6502.asm]
+TopLine=1
+Caret=1,1
+[..\base\res6502.asm]
+TopLine=889
+Caret=17,913
+[resources.rc]
+TopLine=1
+Caret=17,4
+[..\lib\b_crt.pas]
+TopLine=1
+Caret=1,1
+[..\lib\b_set_interupts.pas]
+TopLine=2
+Caret=18,46
+[..\lib\b_system.pas]
+TopLine=113
+Caret=13,126
+[ML Elements.asm]
+TopLine=1
+Caret=9,23
+[sound_commander.asm]
+TopLine=91
+Caret=12,119
+[..\..\Mads Projects\cc65\Mind Field C\Mind Field.c]
+TopLine=72
+Caret=1,127
+[..\..\Mads Projects\cc65\asminc\atari_antic.inc]
+TopLine=1
+Caret=1,1
+[..\..\Mads Projects\cc65\asminc\atari.inc]
+TopLine=1141
+Caret=1,1141

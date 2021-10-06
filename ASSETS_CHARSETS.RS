@@ -1,0 +1,1 @@
+CHARSET_ADDRESS rcdata 'Mind Field\MINDFIELD.FNT'
